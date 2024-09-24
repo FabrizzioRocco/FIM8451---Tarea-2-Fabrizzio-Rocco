@@ -1,0 +1,1 @@
+Resolución Tarea 2 de la asignatura Mecánica Estadística Avanzada I enfocada en simulaciones de Monte Carlo aplicado al modelo Ising. Para el problema 2, se tuvo que omitir por excesivo tiempo de espera para el output del caso del tamaño de celda de 6x6.
